@@ -4,7 +4,11 @@
 Quage is dedicated to empowering communities through innovative decentralized governance. By combining the power of AI and randomness, we provide a platform that ensures fairness, transparency, and inclusivity in decision-making processes. Our mission is to redefine governance for the digital age and create tools that bridge the gap between technology and equitable collaboration. Quage stands for integrity, innovation, and the empowerment of voices worldwide.
 
 ## About Us
-Quage is dedicated to empowering communities through innovative decentralized governance. By combining the power of AI and randomness, we provide a platform that ensures fairness, transparency, and inclusivity in decision-making processes. Our mission is to redefine governance for the digital age and create tools that bridge the gap between technology and equitable collaboration. Quage stands for integrity, innovation, and the empowerment of voices worldwide.
+Qubei AI is an advanced artificial intelligence platform designed to revolutionize the way users interact with the cryptocurrency
+market. By analyzing vast amounts of market data in real-time, Qubei AI not only identifies emerging trends but also "snipes" coins
+with high potential, spotting opportunities before they become mainstream. With its powerful algorithms, Qubei AI helps users make
+informed, data-driven investment decisions, ensuring they can stay ahead of the curve in an ever-changing market. Whether you're a
+seasoned trader or just getting started, Qubei AI provides the tools to navigate the crypto landscape with confidence and precision.
 
 ## Our Vision
 Our vision is to create a world where technology fosters fairness, transparency, and equality in decision-making. Quage aims to lead the way in decentralized governance by offering tools that are accessible, reliable, and transformative. We believe in harnessing the power of AI and blockchain technology to build a future where every voice is heard, and every decision is rooted in fairness and trust. With Quage, we envision a dynamic ecosystem where communities thrive and innovate together.
